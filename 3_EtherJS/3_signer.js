@@ -23,6 +23,8 @@
 
 // b. Create a Goerli provider.
 
+// A
+//
 // Your code here!
 
 // Exercise 1. Create a Signer.
